@@ -1,0 +1,4 @@
+//Para usar Manualmente:
+
+PORT=3000  //Puerto
+BD_CNN=mongodb+srv://mean_user_students:dFrjZlX3qxBrmXZH@cluster0.safehvl.mongodb.net/estudiantesdb  //Cadena de Conexion
